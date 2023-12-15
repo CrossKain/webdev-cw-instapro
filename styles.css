@@ -2,6 +2,7 @@
   padding: 0 20px;
 }
 
+
 .page-header {
   display: flex;
   justify-content: space-between;
@@ -31,6 +32,7 @@
   line-height: 18px;
   font-weight: 500;
   cursor: pointer;
+  
 }
 
 .logout-button {
